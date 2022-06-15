@@ -1,7 +1,0 @@
-org\tron\trident\crypto\HashTest.class
-org\tron\trident\utils\ConvertTest.class
-org\tron\trident\utils\AssertionsTest.class
-org\tron\trident\utils\BytesTest.class
-org\tron\trident\utils\NumericTest.class
-org\tron\trident\utils\StringsTest.class
-org\tron\trident\utils\Base58CheckTest.class

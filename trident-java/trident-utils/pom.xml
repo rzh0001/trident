@@ -16,6 +16,13 @@
 
     <dependencies>
 
+        <dependency>
+            <groupId>org.zlwl</groupId>
+            <artifactId>trident-core</artifactId>
+            <version>0.3.0</version>
+            <scope>compile</scope>
+        </dependency>
+
         <!-- https://mvnrepository.com/artifact/io.vertx/vertx-core -->
         <dependency>
             <groupId>io.vertx</groupId>
