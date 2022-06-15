@@ -1,0 +1,7 @@
+org.tron.trident.api
+org.tron.trident.core
+org.tron.trident.core.contract
+org.tron.trident.core.exceptions
+org.tron.trident.core.key
+org.tron.trident.core.transaction
+org.tron.trident.proto
